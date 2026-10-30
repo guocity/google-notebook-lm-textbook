@@ -1,0 +1,11 @@
+.playwright-cli/
+__pycache__/
+*.py[cod]
+.DS_Store
+textbook-catalog/import-test/
+textbook-catalog/exports/
+textbook-catalog/*-response.txt
+textbook-catalog/all-textbooks-source.json
+textbook-catalog/page-002-source.json
+textbook-catalog/catalog-source.json
+*.pdf

@@ -1,0 +1,110 @@
+[
+  [
+    [
+      "Subjects",
+      "Topic",
+      [
+        [
+          "SUBJECT_BUSINESS",
+          "Business"
+        ],
+        [
+          "SUBJECT_COMPUTER_SCIENCE",
+          "Computer Science"
+        ],
+        [
+          "SUBJECT_ECONOMICS",
+          "Economics"
+        ],
+        [
+          "SUBJECT_ENGINEERING",
+          "Engineering"
+        ],
+        [
+          "SUBJECT_HEALTH_AND_MEDICINE",
+          "Health & Medicine"
+        ],
+        [
+          "SUBJECT_HISTORY_AND_PHILOSOPHY",
+          "History & Philosophy"
+        ],
+        [
+          "SUBJECT_LANGUAGES_AND_WRITING",
+          "Languages & Writing"
+        ],
+        [
+          "SUBJECT_LAW_AND_POLITICS",
+          "Law & Politics"
+        ],
+        [
+          "SUBJECT_LIFE_SCIENCES",
+          "Life Sciences"
+        ],
+        [
+          "SUBJECT_MATHEMATICS",
+          "Mathematics"
+        ],
+        [
+          "SUBJECT_PHYSICAL_SCIENCES",
+          "Physical Sciences"
+        ],
+        [
+          "SUBJECT_PSYCHOLOGY",
+          "Psychology"
+        ],
+        [
+          "SUBJECT_SOCIOLOGY_AND_CULTURE",
+          "Sociology & Culture"
+        ],
+        [
+          "SUBJECT_STUDENT_SUCCESS",
+          "Student Success"
+        ],
+        [
+          "SUBJECT_OTHER",
+          "Other"
+        ]
+      ]
+    ],
+    [
+      "EducationLevel",
+      "Level",
+      [
+        [
+          "EDUCATION_LEVEL_PRIMARY_AND_MIDDLE_SCHOOL",
+          "Primary & Middle School"
+        ],
+        [
+          "EDUCATION_LEVEL_HIGH_SCHOOL_AND_AP",
+          "Secondary & High School"
+        ],
+        [
+          "EDUCATION_LEVEL_HIGHER_EDUCATION",
+          "Higher Education"
+        ],
+        [
+          "EDUCATION_LEVEL_OTHER",
+          "Other"
+        ]
+      ]
+    ],
+    [
+      "Country",
+      "Country",
+      [
+        [
+          "COUNTRY_INDIA",
+          "India"
+        ],
+        [
+          "COUNTRY_UNITED_STATES",
+          "United States"
+        ],
+        [
+          "COUNTRY_OTHER",
+          "Other"
+        ]
+      ]
+    ]
+  ]
+]
